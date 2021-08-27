@@ -1,5 +1,7 @@
 body {
   background-color: green;
+  font-family: verdana, sans-serif;
+  font-size: 1.7rem
 }
 
 p {
